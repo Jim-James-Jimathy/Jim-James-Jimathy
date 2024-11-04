@@ -1,4 +1,4 @@
-<h1 align="center">Howdy! 👋, I'm James Alan Mikal Kirkwood</h1>
+<h1 align="center">Howdy! I'm James Alan Mikal Kirkwood</h1>
 
 <h2 align="center">Here is a little bit about me.</h2>
 <h4 align="center">I am a full-stack Software Developer (specializing in Front End Web Developement) graduated from <a href='https://www.bloomtech.com/'>Bloom</a> Institute of Technology.</h4>
